@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">fake newsdetector</string>
+    <string name="action_go">Go</string>
+    <string name="title">Fake news detector</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="prompt_placeholder">Enter News Article Text Here</string>
+
+    <string name="fakenewstileweb_desc">fake</string>
+    <string name="results_placeholder">  </string>
+</resources>
